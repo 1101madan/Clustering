@@ -6,7 +6,16 @@ Understanding and Implementing K-Means, Hierarchical, and DBSCAN Algorithms
 
 Objective:
 The objective of this assignment is to introduce to various clustering algorithms, including K-Means, hierarchical, and DBSCAN, and provide hands-on experience in applying these techniques to a real-world dataset.
+
 Datasets :
+
+East-West Airlines is trying to learn more about its customers.  Key issues are their
+flying patterns, earning and use of frequent flyer rewards, and use of the airline credit
+card.  The task is to identify customer segments via clustering.
+
+![image](https://github.com/user-attachments/assets/df706877-83ca-47dc-82c0-e2ec0191ec17)
+
+
 Data Preprocessing:
 1.	Preprocess the dataset to handle missing values, remove outliers, and scale the features if necessary.
 2.	Perform exploratory data analysis (EDA) to gain insights into the distribution of data and identify potential clusters.
